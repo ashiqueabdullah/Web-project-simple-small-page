@@ -1,0 +1,80 @@
+
+
+@media screen and (max-width: 768px) {
+	.baner-section p {
+		font-size: 31px;
+	}
+	.mmr {
+		margin-top: 40px;
+	}
+	.feture-section .button {
+		font-size: 12px;
+	}
+	.button-group .button {
+		margin-top: 6px;
+	}
+	.get-intouch .adph {
+		max-width: 61%;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.baner-section p {
+		font-size: 18px;
+	}
+	.baner-section h2 {
+		font-size: 45px;
+	}
+	.mybtn {
+		font-size: 15px;
+		padding: 7px 15px;
+	}
+	.baner-section {
+		padding: 15px;
+	}
+	.button-group .button {
+		margin-top: 6px;
+		font-size: 14px;
+		padding: 5px 15px;
+	}
+	.get-intouch {
+		padding: 15px;
+	}
+	.get-intouch .ves {
+		font-size: 17px;
+	}
+	.get-intouch .address {
+		background: url(../img/map.png)no-repeat scroll 5px 5px;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.baner-section p {
+		font-size: 18px;
+	}
+	.baner-section h2 {
+		font-size: 45px;
+	}
+	.mybtn {
+		font-size: 15px;
+		padding: 7px 15px;
+	}
+	.baner-section {
+		padding: 15px;
+	}
+	.button-group .button {
+		margin-top: 6px;
+		font-size: 14px;
+		padding: 5px 15px;
+	}
+	.get-intouch {
+		padding: 15px;
+	}
+	.get-intouch .ves {
+		font-size: 17px;
+	}
+	.get-intouch .address {
+		background: url(../img/map.png)no-repeat scroll 5px 5px;
+	}
+}
+
